@@ -1,5 +1,5 @@
 //author: Alessandro Pilastrini
-//comment: running script in command-line: node flatty.js
+//comment: running script via command-line: node flatty.js
 
 //script - from nested int array to flat int array
 
